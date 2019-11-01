@@ -1,0 +1,35 @@
+body{
+    background: rgb(239, 247, 250);
+    text-align: center;
+    background-image: url("https://www.nationalgeographic.com/content/dam/travel/Guide-Pages/north-america/mexico-city-travel.adapt.1900.1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+h1{
+    color: purple;
+}
+.Green_heading{
+    color:rgb(11, 107, 91);
+    font-style: normal;
+    font-style: italic;
+    font-size: 4em;
+}
+#heading{
+    color: royalblue;
+    font-size: 7em;
+    letter-spacing: 1cm;
+    font-style: oblique;
+}
+#heading{
+    color: rgb(41, 87, 173);
+}
+#salsa{
+    width:100vw;
+}
+#navbar{
+    background: darkblue;
+    font-size: 30pt;
+    color: white;
+}
