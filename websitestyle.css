@@ -1,0 +1,27 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://d2u09083uyrwez.cloudfront.net/api/file/TqBAlvlSSGqCGPB1o49y); 
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:cover
+}
+#navbar{
+   text-align: center;
+   font-size: 3em;
+   font-family:'Courier New', Courier, monospace;
+   word-spacing: .2em;
+   margin: 1em;  
+}
+.navbar-brand{
+    width: 2in;
+    height: 2in;
+}
+.navbar{
+background: burlywood !important;
+}
+
+
+
+
+

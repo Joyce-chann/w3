@@ -33,3 +33,18 @@ h1{
     font-size: 30pt;
     color: white;
 }
+ #pink_box{
+    width:fit-content;
+    height:fit-content;
+    border-color:white;
+    border-style:dotted;
+    border-spacing: 2in;
+}
+.navlogo{
+    width: 2%;
+    height: 2%;
+}
+.navbar{
+background: burlywood !important;
+}
+
